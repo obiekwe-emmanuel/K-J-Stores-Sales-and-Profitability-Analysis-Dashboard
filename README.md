@@ -59,7 +59,7 @@ Sales totals alone do not show whether a business is healthy. A month or product
 
 ### Dashboard 1: Time Series Analysis
 
-![K-J Stores Time series Analysis](screenshots/K-J%20Stores%20Time%20series%20Analysis.png)
+![K-J Stores Time series Analysis](/K-J%20Stores%20Time%20Series%20Analysis.png)
 
 - **KPI row:** Combined sales, profit, cost, and quantity for 2023 and 2024, with 2024 vs. 2023 percentage changes
 - **Weekday sales trend:** Monday to Sunday sales, 2023 vs. 2024
