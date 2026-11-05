@@ -154,7 +154,7 @@ Sales totals alone do not show whether a business is healthy. A month or product
 ## Dashboard Screenshots
 
 ### Dashboard 1: Time Series Analysis
-![K-J Stores Time series Analysis](/K-J%20Stores%20Time%20series%20Analysis.png)
+![K-J Stores Time series Analysis](/K-J%20Stores%20Time%20Series%20Analysis.png)
 
 ### Dashboard 2: Product & Regional Analysis
 ![K-J Stores Product & Regional Analysis](/K-J%20Stores%20Product%20%26%20Regional%20Analysis.png)
