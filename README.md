@@ -4,7 +4,7 @@ An interactive Excel dashboard that analyzes two years of sales, profit, cost, a
 
 > **Data note:** The dataset is synthetic. It was generated for this portfolio project and does not represent a real business.
 
-**Download the workbook:** [K-J Srores.xlsm](workbook/K-J%20Srores.xlsm)
+**Download the workbook:** [K-J Stores.xlsm](workbook/K-J%20Stores.xlsm)
 
 ---
 
@@ -59,7 +59,7 @@ Sales totals alone do not show whether a business is healthy. A month or product
 
 ### Dashboard 1: Time Series Analysis
 
-![K-J Srores Time series Analysis](screenshots/K-J%20Srores%20Time%20series%20Analysis.png)
+![K-J Stores Time series Analysis](screenshots/K-J%20Stores%20Time%20series%20Analysis.png)
 
 - **KPI row:** Combined sales, profit, cost, and quantity for 2023 and 2024, with 2024 vs. 2023 percentage changes
 - **Weekday sales trend:** Monday to Sunday sales, 2023 vs. 2024
@@ -69,7 +69,7 @@ Sales totals alone do not show whether a business is healthy. A month or product
 
 ### Dashboard 2: Product & Regional Analysis
 
-![K-J Srores Product & Regional Analysis](screenshots/K-J%20Srores%20Product%20%26%20Regional%20Analysis.png)
+![K-J Stores Product & Regional Analysis](screenshots/K-J%20Stores%20Product%20%26%20Regional%20Analysis.png)
 
 - **KPI row:** Same four KPIs as Dashboard 1
 - **Sales by region:** South, East, West, and North, 2023 vs. 2024
@@ -154,16 +154,16 @@ Sales totals alone do not show whether a business is healthy. A month or product
 ## Dashboard Screenshots
 
 ### Dashboard 1: Time Series Analysis
-![K-J Srores Time series Analysis](screenshots/K-J%20Srores%20Time%20series%20Analysis.png)
+![K-J Stores Time series Analysis](screenshots/K-J%20Stores%20Time%20series%20Analysis.png)
 
 ### Dashboard 2: Product & Regional Analysis
-![K-J Srores Product & Regional Analysis](screenshots/K-J%20Srores%20Product%20%26%20Regional%20Analysis.png)
+![K-J Stores Product & Regional Analysis](screenshots/K-J%20Stores%20Product%20%26%20Regional%20Analysis.png)
 
 ### Pivot Tables
-![K-J Srores Pivot Tables](screenshots/K-J%20Srores%20Pivot%20Tables.png)
+![K-J Stores Pivot Tables](screenshots/K-J%20Stores%20Pivot%20Tables.png)
 
 ### Dataset
-![K-J Srores Dataset](screenshots/K-J%20Srores%20Dataset.png)
+![K-J Stores Dataset](screenshots/K-J%20Stores%20Dataset.png)
 
 ---
 
@@ -173,21 +173,21 @@ Sales totals alone do not show whether a business is healthy. A month or product
 kj-stores-sales-profitability-dashboard/
 ├── README.md
 ├── workbook/
-│   └── K-J Srores.xlsm
+│   └── K-J Stores.xlsm
 └── screenshots/
-    ├── K-J Srores Time series Analysis.png
-    ├── K-J Srores Product & Regional Analysis.png
-    ├── K-J Srores Pivot Tables.png
-    └── K-J Srores Dataset.png
+    ├── K-J Stores Time series Analysis.png
+    ├── K-J Stores Product & Regional Analysis.png
+    ├── K-J Stores Pivot Tables.png
+    └── K-J Stores Dataset.png
 ```
 
-The dataset lives on the Dataset sheet inside `K-J Srores.xlsm`, so no separate data file is needed.
+The dataset lives on the Dataset sheet inside `K-J Stores.xlsm`, so no separate data file is needed.
 
 ---
 
 ## How to Use the Workbook
 
-1. Download [K-J Srores.xlsm](workbook/K-J%20Srores.xlsm) and open it in Microsoft Excel.
+1. Download [K-J Stores.xlsm](workbook/K-J%20Stores.xlsm) and open it in Microsoft Excel.
 2. Enable macros so the navigation icons work.
 3. Use the sidebar icons to move between sheets.
 4. Click a slicer (Accessories, Electronics, East, North, South, or West) to filter the dashboard. Chart titles and values update automatically.
